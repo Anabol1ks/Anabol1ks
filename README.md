@@ -2,10 +2,6 @@
 <h1 align="center">Привет, я Григор 👋</h1>
 <h3 align="center">Backend-разработчик на Go</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2000&pause=1000&color=fffff&center=true&vCenter=true&width=435&lines=Пишу+на+Go;Открыт+к+новым+проектам" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌟 Обо мне
