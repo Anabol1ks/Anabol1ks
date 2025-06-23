@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
   <img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" width="40" title="Gin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="40" title="gRPC" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
@@ -36,6 +37,8 @@
 - 🏨 [Hotel Booking System](https://github.com/Anabol1ks/hotel-booking) — система бронирования отелей с авторизацией, ролями, оплатой через ЮKassa
 - 🗒️ [NeuroNest Backend](https://github.com/Anabol1ks/NeuroNestBackend) — backend-платформа для работы с нейросетевым контентом, профилями, заметками, тегами, embedding и OAuth
 - 💬 [Digital Queue System](https://github.com/Anabol1ks/digital-queue) — онлайн-управление очередями студентов на практических и лабораторных
+- ⚡ [LiveEdit](https://github.com/Anabol1ks/LiveEdit ) — проект для изучения gRPC и работы с протоколами реального времени
+
 - 🧠 [Алгоритмы и задачи](https://github.com/Anabol1ks/GoLang/tree/main/LeetCode) — решения задач с LeetCode и CodeWars
 
 ---
