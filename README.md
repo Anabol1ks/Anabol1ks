@@ -6,7 +6,7 @@
 ### 🌟 Обо мне
 
 - 🔭 Работаю над pet-проектами на Go, использую best practices и современные архитектурные подходы
-- 🌱 Изучаю микросервисы, Docker, PostgreSQL, REST API, gRPC
+- 🌱 Изучаю микросервисы, Docker, PostgreSQL, REST API, gRPC, Kafka
 - 💬 Готов поделиться опытом по Go, Gin, GORM, PostgreSQL, Docker, JWT
 - 📄 [Моё резюме (PDF)](/резюме%20Оганнисян%20Григор.pdf)
 - 📬 Связаться: [Telegram](https://t.me/gr1sha_44) | [Почта](mailto:grigorogannisyan.12@yandex.ru)
@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="40" title="gRPC" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
@@ -33,9 +34,13 @@
 
 ### 📌 Избранные проекты
 
-- 🔗 [LinkVault](https://github.com/Anabol1ks/LinkVault) — сервис для хранения и управления коллекциями ссылок. Современная архитектура (repository/service/handler), best practices Go.  
-  **Функционал:** добавление, редактирование, удаление и группировка ссылок; управление доступом к коллекциям.  
-  **Технологии:** Go, PostgreSQL, Gin, GORM, Docker.
+- 🔗 [LinkVault Microservices](https://github.com/Anabol1ks/LinkVault-micro) — микросервисная платформа для аутентификации, сокращения ссылок и транзакционных email‑уведомлений.
+  **Личный вклад:**  
+  • Спроектировал архитектуру с независимыми сервисами (auth, link, notification) на gRPC и Kafka.  
+  • Реализовал безопасную работу с JWT (access/refresh), инвалидацию токенов и email‑pipeline через Kafka.  
+  • Вынес protobuf‑контракты в отдельный репозиторий, настроил dockerized окружение для воспроизводимого запуска.  
+  • Организовал хранение данных в отдельных PostgreSQL базах, внедрил best practices Go (чистая структура, разделение слоёв).
+  **Технологии:** Go, gRPC, Kafka, PostgreSQL, Docker.
 
 - ⚡ [LiveEdit](https://github.com/Anabol1ks/LiveEdit) — многопользовательский редактор документов в реальном времени.  
   **Функционал:** совместное редактирование документов, управление пользователями, разграничение прав доступа.  
