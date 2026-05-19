@@ -8,7 +8,6 @@
 - 🔭 Работаю над pet-проектами на Go, использую best practices и современные архитектурные подходы
 - 🌱 Изучаю микросервисы, Docker, PostgreSQL, REST API, gRPC, Kafka
 - 💬 Готов поделиться опытом по Go, Gin, GORM, PostgreSQL, Docker, JWT
-- 📄 [Моё резюме (PDF)](/резюме%20Оганнисян%20Григор.pdf)
 - 📬 Связаться: [Telegram](https://t.me/gr1sha_44) | [Почта](mailto:grigorogannisyan.12@yandex.ru)
 
 ---
