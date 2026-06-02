@@ -35,13 +35,13 @@
 
 - 🧠 [Forklore](https://github.com/Anabol1ks/Forklore) — командная knowledge-platform для учебных материалов
 Победитель хакатона «{Идея.Код.Релиз}» 2026
- - Реализовал backend платформы на Go в виде набора сервисов: api-gateway, auth-service, repository-service, content-service, search-service, profile-service, ranking-service, study-service.
- - Спроектировал backend-контур платформы для хранения, редактирования, версионирования и форка учебных материалов по модели “GitHub для знаний”.
- - Настроил локальную инфраструктуру проекта через Docker Compose, PostgreSQL, Kafka и Caddy; организовал запуск frontend и backend в едином окружении.
- - Разработал значительную часть frontend.
- - Работал в команде: backend и значительная часть frontend были на моей стороне, дизайн и LLM/Python-часть реализовывались другими участниками.
- - GitHub: github.com/Anabol1ks/Forklore
- - Лендинг: forklore-lending.vercel.app/
+  • Реализовал backend платформы на Go в виде набора сервисов: api-gateway, auth-service, repository-service, content-service, search-service, profile-service, ranking-service, study-service.
+  • Спроектировал backend-контур платформы для хранения, редактирования, версионирования и форка учебных материалов по модели “GitHub для знаний”.
+  • Настроил локальную инфраструктуру проекта через Docker Compose, PostgreSQL, Kafka и Caddy; организовал запуск frontend и backend в едином окружении.
+  • Разработал значительную часть frontend.
+  • Работал в команде: backend и значительная часть frontend были на моей стороне, дизайн и LLM/Python-часть реализовывались другими участниками.
+  • GitHub: [github.com/Anabol1ks/Forklore](https://github.com/Anabol1ks/Forklore)
+  • Лендинг: [forklore-lending.vercel.app](https://forklore-lending.vercel.app/)
 
 - 🔗 [LinkVault](https://github.com/Anabol1ks/LinkVault-micro) — микросервисная платформа для аутентификации, сокращения ссылок и транзакционных email‑уведомлений.
   **Личный вклад:**  
