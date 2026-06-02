@@ -33,7 +33,17 @@
 
 ### 📌 Избранные проекты
 
-- 🔗 [LinkVault Microservices](https://github.com/Anabol1ks/LinkVault-micro) — микросервисная платформа для аутентификации, сокращения ссылок и транзакционных email‑уведомлений.
+- 🧠 [Forklore](https://github.com/Anabol1ks/Forklore) — командная knowledge-platform для учебных материалов
+Победитель хакатона «{Идея.Код.Релиз}» 2026
+ - Реализовал backend платформы на Go в виде набора сервисов: api-gateway, auth-service, repository-service, content-service, search-service, profile-service, ranking-service, study-service.
+ - Спроектировал backend-контур платформы для хранения, редактирования, версионирования и форка учебных материалов по модели “GitHub для знаний”.
+ - Настроил локальную инфраструктуру проекта через Docker Compose, PostgreSQL, Kafka и Caddy; организовал запуск frontend и backend в едином окружении.
+ - Разработал значительную часть frontend.
+ - Работал в команде: backend и значительная часть frontend были на моей стороне, дизайн и LLM/Python-часть реализовывались другими участниками.
+ - GitHub: github.com/Anabol1ks/Forklore
+ - Лендинг: forklore-lending.vercel.app/
+
+- 🔗 [LinkVault](https://github.com/Anabol1ks/LinkVault-micro) — микросервисная платформа для аутентификации, сокращения ссылок и транзакционных email‑уведомлений.
   **Личный вклад:**  
   • Спроектировал архитектуру с независимыми сервисами (auth, link, notification) на gRPC и Kafka.  
   • Реализовал безопасную работу с JWT (access/refresh), инвалидацию токенов и email‑pipeline через Kafka.  
@@ -48,11 +58,6 @@
 - 💬 [Digital Queue System](https://github.com/Anabol1ks/digital-queue) — система электронной очереди для учебных заведений.  
   **Функционал:** автоматизация очередей, роли (студенты/преподаватели), панель администратора.  
   **Технологии:** Go (Gin), PostgreSQL, Redis, React, Next.js, Docker.
-
-- 🧠 [Алгоритмы и задачи](https://github.com/Anabol1ks/GoLang/tree/main/LeetCode) — решения задач с LeetCode и CodeWars.  
-  **Функционал:** задачи на алгоритмы и структуры данных, подробные комментарии к решениям.  
-  **Технологии:** Go.
-
 ---
 
 ### 📊 Статистика и активность
